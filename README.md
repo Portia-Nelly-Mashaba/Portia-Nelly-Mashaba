@@ -71,7 +71,7 @@ Hi, I'm **Portia Mashaba**, a Junior IT Professional and Full-Stack Developer ba
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=swagger&logoColor=white)
 ![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-764ABC?style=flat-square&logo=react&logoColor=white)
-)
+
 
 ---
 
